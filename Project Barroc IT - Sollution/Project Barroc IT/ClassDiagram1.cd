@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Project_Barroc_IT.MainScreen" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAQBBCgAAAAAQACIAAACAAAAAAABEAASAACAgAA=</HashCode>
+      <FileName>CAP-Sales-Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.CAP_Sales_SearchContact" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAoAAABBCAAgJQAAACAAQACAMAxAACAEBQABAAAAAA=</HashCode>
+      <FileName>CAP-Sales-SearchContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.CAP_Sales_AddContact" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cCAAAAABASAAAJCQEACAAABCIAAQAACAECAAAAAAAII=</HashCode>
+      <FileName>CAP_Sales_AddContact.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.LoginScreen" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAACAQAgQQAACAAQACAEAAQQAAAgwCBAAEAAA=</HashCode>
+      <FileName>LoginScreen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.Program" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.Properties.Resources" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Project_Barroc_IT.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

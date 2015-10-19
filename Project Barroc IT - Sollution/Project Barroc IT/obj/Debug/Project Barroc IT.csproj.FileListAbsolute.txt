@@ -1,0 +1,14 @@
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\bin\Debug\Project Barroc IT.exe.config
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\bin\Debug\Project Barroc IT.exe
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\bin\Debug\Project Barroc IT.pdb
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project Barroc IT.csprojResolveAssemblyReference.cache
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project_Barroc_IT.LoginScreen.resources
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project_Barroc_IT.MainScreen.resources
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project_Barroc_IT.Properties.Resources.resources
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project Barroc IT.csproj.GenerateResource.Cache
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project Barroc IT.exe
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project Barroc IT.pdb
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project_Barroc_IT.CAP_Sales_SearchContact.resources
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\obj\Debug\Project_Barroc_IT.CAP_Sales_AddContact.resources
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\bin\Debug\DatabaseBarrocIT.mdf
+C:\Users\keese_000\Documents\school\Jaar 2\Project Barroc IT\Project Barroc IT\Project Barroc IT\bin\Debug\DatabaseBarrocIT_log.ldf
